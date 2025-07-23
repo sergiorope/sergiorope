@@ -45,17 +45,15 @@ Sobre mí
 ![Proactividad](https://img.shields.io/badge/Proactividad-orange?style=for-the-badge)
 ![Perseverancia](https://img.shields.io/badge/Perseverancia-red?style=for-the-badge)
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=sergiorope&show_icons=true&theme=github_dark&locale=es" alt="Estadísticas de GitHub de Sergio" />
-</p>
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorope&layout=compact&theme=github_dark" alt="Lenguajes más usados por Sergio" />
-</p>
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=sergiorope&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
-</p>
+
 
 
 📫 Contacta conmigo
