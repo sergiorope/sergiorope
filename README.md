@@ -38,6 +38,7 @@
 ![Perseverancia](https://img.shields.io/badge/Perseverancia-red?style=for-the-badge)
 
 📫 Contacta conmigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergiorope/)
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio160502@gmail.com)
 
