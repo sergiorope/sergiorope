@@ -31,11 +31,11 @@
 
 🤝 Soft Skills
 
-![Comunicación](https://img.shields.io/badge/Comunicación-Clara-informational?style=flat-square)
-![Resolución de problemas](https://img.shields.io/badge/Resolución%20de%20problemas-Crítico-blueviolet?style=flat-square)
-![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-Colaborativo-brightgreen?style=flat-square)
-![Proactividad](https://img.shields.io/badge/Proactividad-Alta-orange?style=flat-square)
-![Perseverancia](https://img.shields.io/badge/Perseverancia-No%20paro%20hasta%20lograrlo-red?style=for-the-badge)
+![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge)
+![Resolución de problemas](https://img.shields.io/badge/Resolución%20de%20problemas-blueviolet?style=for-the-badge)
+![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-brightgreen?style=for-the-badge)
+![Proactividad](https://img.shields.io/badge/Proactividad-orange?style=for-the-badge)
+![Perseverancia](https://img.shields.io/badge/Perseverancia-red?style=for-the-badge)
 
 📫 Contacta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergiorope/)
