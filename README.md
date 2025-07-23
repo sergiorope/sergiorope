@@ -52,13 +52,14 @@ Sobre mí
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorope&layout=compact&theme=github_dark" alt="Lenguajes más usados por Sergio" />
 
 
-  <img src="https://komarev.com/ghpvc/?username=sergiorope&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
-
 
 
 📫 Contacta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergiorope/)
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio160502@gmail.com)
+
+  <img src="https://komarev.com/ghpvc/?username=sergiorope&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+
 
 
