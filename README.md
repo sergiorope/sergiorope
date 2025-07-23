@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" alt="Sergio" src="https://github.com/user-attachments/assets/4c73a68b-207b-43a2-9ccb-08045169b75b" />
+  <img width="300" height="300" alt="Sergio" src="https://github.com/user-attachments/assets/4c73a68b-207b-43a2-9ccb-08045169b75b" />
 
 
 Sobre mí
