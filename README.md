@@ -3,17 +3,22 @@
 <img src="https://github.com/user-attachments/assets/49f43ac1-ab5d-4658-93cb-777ccec7727b" alt="Imagen de Sergio" width="250"/>
 </p>
 
-👋 ¡Hola! Soy Sergio Rodríguez Pérez, desarrollador de software en búsqueda de mi primera oportunidad profesional.
+👋 ¡Hola! Soy Sergio Rodríguez Pérez, desarrollador de software en búsqueda de mi primera oportunidad profesional en el sector IT.
 
-🎓 Me formé en Desarrollo de Aplicaciones Multiplataforma (DAM) y he complementado mi aprendizaje con formaciones extra en tecnologías backend, tales como:
+🎓 Me he formado en Desarrollo de Aplicaciones Multiplataforma (DAM) y he complementado mis estudios con formación adicional en tecnologías backend, incluyendo:
 
 - Spring Boot
-- DevOps & contenedores (Docker)
-- Y otras tecnologías clave del ecosistema Java ☕
 
-💻 Mi enfoque principal es el desarrollo backend con Java, pero también he trabajado con tecnologías como Node.js + Express y JavaScript por pura pasión y además para ampliar mis conocimientos.
+- Contenedores y herramientas DevOps (Docker)
 
-🚀 Me apasiona crear proyectos, resolver retos y seguir aprendiendo cada día para mejorar mis habilidades y crecer profesionalmente.
+- Node.js
+
+- Y otras tecnologías del ecosistema Java ☕
+
+💻 Mi enfoque principal es el desarrollo backend con Java, aunque también tengo conocimientos en desarrollo web con HTML, CSS y frameworks como Bootstrap.
+
+🚀 Me apasiona crear proyectos, enfrentar nuevos desafíos y aprender continuamente para mejorar mis habilidades y crecer profesionalmente.
+
 
 
 🛠️ Tecnologías que uso
