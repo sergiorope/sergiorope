@@ -1,6 +1,9 @@
 <p align="center">
   <img width="200" height="200" alt="Sergio" src="https://github.com/user-attachments/assets/4c73a68b-207b-43a2-9ccb-08045169b75b" />
 
+
+Sobre mí
+
 </p>
 
 👋 ¡Hola! Soy Sergio Rodríguez Pérez, desarrollador de software en búsqueda de mi primera oportunidad profesional en el sector IT.
@@ -41,6 +44,19 @@
 ![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-brightgreen?style=for-the-badge)
 ![Proactividad](https://img.shields.io/badge/Proactividad-orange?style=for-the-badge)
 ![Perseverancia](https://img.shields.io/badge/Perseverancia-red?style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiorope&show_icons=true&theme=github_dark&locale=es" alt="Estadísticas de GitHub de Sergio" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorope&layout=compact&theme=github_dark" alt="Lenguajes más usados por Sergio" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sergiorope&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+</p>
+
 
 📫 Contacta conmigo
 
