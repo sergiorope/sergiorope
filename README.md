@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49f43ac1-ab5d-4658-93cb-777ccec7727b" 
-       alt="Imagen de Sergio" 
-       width="250" 
-       style="border-radius: 50%;" />
+  <img width="960" height="960" alt="Sergio" src="https://github.com/user-attachments/assets/4c73a68b-207b-43a2-9ccb-08045169b75b" />
+
 </p>
 
 👋 ¡Hola! Soy Sergio Rodríguez Pérez, desarrollador de software en búsqueda de mi primera oportunidad profesional en el sector IT.
