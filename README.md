@@ -12,9 +12,9 @@ Desarrollador de software en búsqueda de mi primera oportunidad profesional en 
 
 ## 🎓 Sobre mí
 
-Soy Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y complemento mi formación con aprendizaje continuo en tecnologías backend y herramientas del ecosistema DevOps.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y complemento mi formación con un aprendizaje continuo enfocado en tecnologías backend y herramientas del ecosistema de desarrollo moderno.
 
-Actualmente me especializo en **desarrollo backend con Java y Spring Boot**, aunque también tengo experiencia en desarrollo web y herramientas modernas como Docker.
+Actualmente me especializo en desarrollo backend con Java y Spring Boot, aunque también cuento con experiencia en tecnologías frontend como HTML, CSS y JavaScript.
 
 ---
 
